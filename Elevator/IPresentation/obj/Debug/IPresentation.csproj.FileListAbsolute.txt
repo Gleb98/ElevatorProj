@@ -1,0 +1,17 @@
+D:\документы\3 курс 5 семестр\ТП\lift\lift\IPresentation\bin\Debug\IPresentation.dll
+D:\документы\3 курс 5 семестр\ТП\lift\lift\IPresentation\bin\Debug\IPresentation.pdb
+D:\документы\3 курс 5 семестр\ТП\lift\lift\IPresentation\obj\Debug\IPresentation.csprojResolveAssemblyReference.cache
+D:\документы\3 курс 5 семестр\ТП\lift\lift\IPresentation\obj\Debug\IPresentation.dll
+D:\документы\3 курс 5 семестр\ТП\lift\lift\IPresentation\obj\Debug\IPresentation.pdb
+D:\C#Диаграммы\lift\lift\lift\IPresentation\bin\Debug\IPresentation.dll
+D:\C#Диаграммы\lift\lift\lift\IPresentation\bin\Debug\IPresentation.pdb
+D:\C#Диаграммы\lift\lift\lift\IPresentation\obj\Debug\IPresentation.csprojAssemblyReference.cache
+D:\C#Диаграммы\lift\lift\lift\IPresentation\obj\Debug\IPresentation.csproj.CoreCompileInputs.cache
+D:\C#Диаграммы\lift\lift\lift\IPresentation\obj\Debug\IPresentation.dll
+D:\C#Диаграммы\lift\lift\lift\IPresentation\obj\Debug\IPresentation.pdb
+D:\C#Диаграммы\lift\lift\Elevator\IPresentation\bin\Debug\IPresentation.dll
+D:\C#Диаграммы\lift\lift\Elevator\IPresentation\bin\Debug\IPresentation.pdb
+D:\C#Диаграммы\lift\lift\Elevator\IPresentation\obj\Debug\IPresentation.csprojAssemblyReference.cache
+D:\C#Диаграммы\lift\lift\Elevator\IPresentation\obj\Debug\IPresentation.csproj.CoreCompileInputs.cache
+D:\C#Диаграммы\lift\lift\Elevator\IPresentation\obj\Debug\IPresentation.dll
+D:\C#Диаграммы\lift\lift\Elevator\IPresentation\obj\Debug\IPresentation.pdb

@@ -1,0 +1,17 @@
+D:\документы\3 курс 5 семестр\ТП\lift\lift\IModel\bin\Debug\IModel.dll
+D:\документы\3 курс 5 семестр\ТП\lift\lift\IModel\bin\Debug\IModel.pdb
+D:\документы\3 курс 5 семестр\ТП\lift\lift\IModel\obj\Debug\IModel.csprojResolveAssemblyReference.cache
+D:\документы\3 курс 5 семестр\ТП\lift\lift\IModel\obj\Debug\IModel.dll
+D:\документы\3 курс 5 семестр\ТП\lift\lift\IModel\obj\Debug\IModel.pdb
+D:\C#Диаграммы\lift\lift\lift\IModel\bin\Debug\IModel.dll
+D:\C#Диаграммы\lift\lift\lift\IModel\bin\Debug\IModel.pdb
+D:\C#Диаграммы\lift\lift\lift\IModel\obj\Debug\IModel.csprojAssemblyReference.cache
+D:\C#Диаграммы\lift\lift\lift\IModel\obj\Debug\IModel.csproj.CoreCompileInputs.cache
+D:\C#Диаграммы\lift\lift\lift\IModel\obj\Debug\IModel.dll
+D:\C#Диаграммы\lift\lift\lift\IModel\obj\Debug\IModel.pdb
+D:\C#Диаграммы\lift\lift\Elevator\IModel\bin\Debug\IModel.dll
+D:\C#Диаграммы\lift\lift\Elevator\IModel\bin\Debug\IModel.pdb
+D:\C#Диаграммы\lift\lift\Elevator\IModel\obj\Debug\IModel.csprojAssemblyReference.cache
+D:\C#Диаграммы\lift\lift\Elevator\IModel\obj\Debug\IModel.csproj.CoreCompileInputs.cache
+D:\C#Диаграммы\lift\lift\Elevator\IModel\obj\Debug\IModel.dll
+D:\C#Диаграммы\lift\lift\Elevator\IModel\obj\Debug\IModel.pdb

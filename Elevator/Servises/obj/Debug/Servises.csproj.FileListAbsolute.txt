@@ -1,0 +1,17 @@
+D:\документы\3 курс 5 семестр\ТП\lift\lift\Servises\bin\Debug\Servises.dll
+D:\документы\3 курс 5 семестр\ТП\lift\lift\Servises\bin\Debug\Servises.pdb
+D:\документы\3 курс 5 семестр\ТП\lift\lift\Servises\obj\Debug\Servises.csprojResolveAssemblyReference.cache
+D:\документы\3 курс 5 семестр\ТП\lift\lift\Servises\obj\Debug\Servises.dll
+D:\документы\3 курс 5 семестр\ТП\lift\lift\Servises\obj\Debug\Servises.pdb
+D:\C#Диаграммы\lift\lift\lift\Servises\bin\Debug\Servises.dll
+D:\C#Диаграммы\lift\lift\lift\Servises\bin\Debug\Servises.pdb
+D:\C#Диаграммы\lift\lift\lift\Servises\obj\Debug\Servises.csprojAssemblyReference.cache
+D:\C#Диаграммы\lift\lift\lift\Servises\obj\Debug\Servises.csproj.CoreCompileInputs.cache
+D:\C#Диаграммы\lift\lift\lift\Servises\obj\Debug\Servises.dll
+D:\C#Диаграммы\lift\lift\lift\Servises\obj\Debug\Servises.pdb
+D:\C#Диаграммы\lift\lift\Elevator\Servises\bin\Debug\Servises.dll
+D:\C#Диаграммы\lift\lift\Elevator\Servises\bin\Debug\Servises.pdb
+D:\C#Диаграммы\lift\lift\Elevator\Servises\obj\Debug\Servises.csprojAssemblyReference.cache
+D:\C#Диаграммы\lift\lift\Elevator\Servises\obj\Debug\Servises.csproj.CoreCompileInputs.cache
+D:\C#Диаграммы\lift\lift\Elevator\Servises\obj\Debug\Servises.dll
+D:\C#Диаграммы\lift\lift\Elevator\Servises\obj\Debug\Servises.pdb

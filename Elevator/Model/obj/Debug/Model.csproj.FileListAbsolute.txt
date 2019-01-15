@@ -1,0 +1,42 @@
+D:\документы\3 курс 5 семестр\ТП\lift\lift\Model\bin\Debug\Model.dll
+D:\документы\3 курс 5 семестр\ТП\lift\lift\Model\bin\Debug\Model.pdb
+D:\документы\3 курс 5 семестр\ТП\lift\lift\Model\bin\Debug\IModel.dll
+D:\документы\3 курс 5 семестр\ТП\lift\lift\Model\bin\Debug\IModel.pdb
+D:\документы\3 курс 5 семестр\ТП\lift\lift\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+D:\документы\3 курс 5 семестр\ТП\lift\lift\Model\obj\Debug\Model.dll
+D:\документы\3 курс 5 семестр\ТП\lift\lift\Model\obj\Debug\Model.pdb
+D:\документы\3 курс 5 семестр\ТП\lift\lift\Model\bin\Debug\Servises.dll
+D:\документы\3 курс 5 семестр\ТП\lift\lift\Model\bin\Debug\Servises.pdb
+E:\C#Диаграммы\lift\lift\lift\Model\bin\Debug\Model.dll
+E:\C#Диаграммы\lift\lift\lift\Model\bin\Debug\Model.pdb
+E:\C#Диаграммы\lift\lift\lift\Model\bin\Debug\IModel.dll
+E:\C#Диаграммы\lift\lift\lift\Model\bin\Debug\Servises.dll
+E:\C#Диаграммы\lift\lift\lift\Model\bin\Debug\IModel.pdb
+E:\C#Диаграммы\lift\lift\lift\Model\bin\Debug\Servises.pdb
+E:\C#Диаграммы\lift\lift\lift\Model\obj\Debug\Model.csprojAssemblyReference.cache
+E:\C#Диаграммы\lift\lift\lift\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+E:\C#Диаграммы\lift\lift\lift\Model\obj\Debug\Model.csproj.CopyComplete
+E:\C#Диаграммы\lift\lift\lift\Model\obj\Debug\Model.dll
+E:\C#Диаграммы\lift\lift\lift\Model\obj\Debug\Model.pdb
+D:\C#Диаграммы\lift\lift\lift\Model\bin\Debug\Model.dll
+D:\C#Диаграммы\lift\lift\lift\Model\bin\Debug\Model.pdb
+D:\C#Диаграммы\lift\lift\lift\Model\bin\Debug\IModel.dll
+D:\C#Диаграммы\lift\lift\lift\Model\bin\Debug\Servises.dll
+D:\C#Диаграммы\lift\lift\lift\Model\bin\Debug\IModel.pdb
+D:\C#Диаграммы\lift\lift\lift\Model\bin\Debug\Servises.pdb
+D:\C#Диаграммы\lift\lift\lift\Model\obj\Debug\Model.csprojAssemblyReference.cache
+D:\C#Диаграммы\lift\lift\lift\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+D:\C#Диаграммы\lift\lift\lift\Model\obj\Debug\Model.csproj.CopyComplete
+D:\C#Диаграммы\lift\lift\lift\Model\obj\Debug\Model.dll
+D:\C#Диаграммы\lift\lift\lift\Model\obj\Debug\Model.pdb
+D:\C#Диаграммы\lift\lift\Elevator\Model\bin\Debug\Model.dll
+D:\C#Диаграммы\lift\lift\Elevator\Model\bin\Debug\Model.pdb
+D:\C#Диаграммы\lift\lift\Elevator\Model\bin\Debug\IModel.dll
+D:\C#Диаграммы\lift\lift\Elevator\Model\bin\Debug\Servises.dll
+D:\C#Диаграммы\lift\lift\Elevator\Model\bin\Debug\IModel.pdb
+D:\C#Диаграммы\lift\lift\Elevator\Model\bin\Debug\Servises.pdb
+D:\C#Диаграммы\lift\lift\Elevator\Model\obj\Debug\Model.csprojAssemblyReference.cache
+D:\C#Диаграммы\lift\lift\Elevator\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+D:\C#Диаграммы\lift\lift\Elevator\Model\obj\Debug\Model.csproj.CopyComplete
+D:\C#Диаграммы\lift\lift\Elevator\Model\obj\Debug\Model.dll
+D:\C#Диаграммы\lift\lift\Elevator\Model\obj\Debug\Model.pdb

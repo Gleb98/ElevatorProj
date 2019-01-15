@@ -1,0 +1,90 @@
+D:\документы\3 курс 5 семестр\ТП\lift\lift\lift\bin\Debug\lift.exe.config
+D:\документы\3 курс 5 семестр\ТП\lift\lift\lift\bin\Debug\lift.exe
+D:\документы\3 курс 5 семестр\ТП\lift\lift\lift\bin\Debug\lift.pdb
+D:\документы\3 курс 5 семестр\ТП\lift\lift\lift\obj\Debug\lift.csprojResolveAssemblyReference.cache
+D:\документы\3 курс 5 семестр\ТП\lift\lift\lift\obj\Debug\lift.Properties.Resources.resources
+D:\документы\3 курс 5 семестр\ТП\lift\lift\lift\obj\Debug\lift.csproj.GenerateResource.Cache
+D:\документы\3 курс 5 семестр\ТП\lift\lift\lift\obj\Debug\lift.exe
+D:\документы\3 курс 5 семестр\ТП\lift\lift\lift\obj\Debug\lift.pdb
+D:\документы\3 курс 5 семестр\ТП\lift\lift\lift\obj\Debug\lift.MainFrame.resources
+D:\документы\3 курс 5 семестр\ТП\lift\lift\lift\obj\Debug\lift.RealTimeFrame.resources
+D:\документы\3 курс 5 семестр\ТП\lift\lift\lift\obj\Debug\lift.FinalFrame.resources
+D:\документы\3 курс 5 семестр\ТП\lift\lift\lift\bin\Debug\IWiew.dll
+D:\документы\3 курс 5 семестр\ТП\lift\lift\lift\bin\Debug\Presentation.dll
+D:\документы\3 курс 5 семестр\ТП\lift\lift\lift\bin\Debug\IWiew.pdb
+D:\документы\3 курс 5 семестр\ТП\lift\lift\lift\bin\Debug\Presentation.pdb
+D:\документы\3 курс 5 семестр\ТП\lift\lift\lift\bin\Debug\IModel.dll
+D:\документы\3 курс 5 семестр\ТП\lift\lift\lift\bin\Debug\Model.dll
+D:\документы\3 курс 5 семестр\ТП\lift\lift\lift\bin\Debug\IModel.pdb
+D:\документы\3 курс 5 семестр\ТП\lift\lift\lift\bin\Debug\Model.pdb
+D:\документы\3 курс 5 семестр\ТП\lift\lift\lift\bin\Debug\Servises.dll
+D:\документы\3 курс 5 семестр\ТП\lift\lift\lift\bin\Debug\Servises.pdb
+E:\C#Диаграммы\lift\lift\lift\lift\bin\Debug\lift.exe.config
+E:\C#Диаграммы\lift\lift\lift\lift\bin\Debug\lift.exe
+E:\C#Диаграммы\lift\lift\lift\lift\bin\Debug\lift.pdb
+E:\C#Диаграммы\lift\lift\lift\lift\bin\Debug\IModel.dll
+E:\C#Диаграммы\lift\lift\lift\lift\bin\Debug\IWiew.dll
+E:\C#Диаграммы\lift\lift\lift\lift\bin\Debug\Model.dll
+E:\C#Диаграммы\lift\lift\lift\lift\bin\Debug\Presentation.dll
+E:\C#Диаграммы\lift\lift\lift\lift\bin\Debug\Servises.dll
+E:\C#Диаграммы\lift\lift\lift\lift\bin\Debug\IModel.pdb
+E:\C#Диаграммы\lift\lift\lift\lift\bin\Debug\IWiew.pdb
+E:\C#Диаграммы\lift\lift\lift\lift\bin\Debug\Model.pdb
+E:\C#Диаграммы\lift\lift\lift\lift\bin\Debug\Presentation.pdb
+E:\C#Диаграммы\lift\lift\lift\lift\bin\Debug\Servises.pdb
+E:\C#Диаграммы\lift\lift\lift\lift\obj\Debug\lift.csprojAssemblyReference.cache
+E:\C#Диаграммы\lift\lift\lift\lift\obj\Debug\lift.MainFrame.resources
+E:\C#Диаграммы\lift\lift\lift\lift\obj\Debug\lift.FinalFrame.resources
+E:\C#Диаграммы\lift\lift\lift\lift\obj\Debug\lift.Properties.Resources.resources
+E:\C#Диаграммы\lift\lift\lift\lift\obj\Debug\lift.RealTimeFrame.resources
+E:\C#Диаграммы\lift\lift\lift\lift\obj\Debug\lift.csproj.GenerateResource.cache
+E:\C#Диаграммы\lift\lift\lift\lift\obj\Debug\lift.csproj.CoreCompileInputs.cache
+E:\C#Диаграммы\lift\lift\lift\lift\obj\Debug\lift.csproj.CopyComplete
+E:\C#Диаграммы\lift\lift\lift\lift\obj\Debug\lift.exe
+E:\C#Диаграммы\lift\lift\lift\lift\obj\Debug\lift.pdb
+D:\C#Диаграммы\lift\lift\lift\lift\bin\Debug\lift.exe.config
+D:\C#Диаграммы\lift\lift\lift\lift\bin\Debug\lift.exe
+D:\C#Диаграммы\lift\lift\lift\lift\bin\Debug\lift.pdb
+D:\C#Диаграммы\lift\lift\lift\lift\bin\Debug\IModel.dll
+D:\C#Диаграммы\lift\lift\lift\lift\bin\Debug\IWiew.dll
+D:\C#Диаграммы\lift\lift\lift\lift\bin\Debug\Model.dll
+D:\C#Диаграммы\lift\lift\lift\lift\bin\Debug\Presentation.dll
+D:\C#Диаграммы\lift\lift\lift\lift\bin\Debug\Servises.dll
+D:\C#Диаграммы\lift\lift\lift\lift\bin\Debug\IModel.pdb
+D:\C#Диаграммы\lift\lift\lift\lift\bin\Debug\IWiew.pdb
+D:\C#Диаграммы\lift\lift\lift\lift\bin\Debug\Model.pdb
+D:\C#Диаграммы\lift\lift\lift\lift\bin\Debug\Presentation.pdb
+D:\C#Диаграммы\lift\lift\lift\lift\bin\Debug\Servises.pdb
+D:\C#Диаграммы\lift\lift\lift\lift\obj\Debug\lift.csprojAssemblyReference.cache
+D:\C#Диаграммы\lift\lift\lift\lift\obj\Debug\lift.MainFrame.resources
+D:\C#Диаграммы\lift\lift\lift\lift\obj\Debug\lift.FinalFrame.resources
+D:\C#Диаграммы\lift\lift\lift\lift\obj\Debug\lift.Properties.Resources.resources
+D:\C#Диаграммы\lift\lift\lift\lift\obj\Debug\lift.RealTimeFrame.resources
+D:\C#Диаграммы\lift\lift\lift\lift\obj\Debug\lift.csproj.GenerateResource.cache
+D:\C#Диаграммы\lift\lift\lift\lift\obj\Debug\lift.csproj.CoreCompileInputs.cache
+D:\C#Диаграммы\lift\lift\lift\lift\obj\Debug\lift.csproj.CopyComplete
+D:\C#Диаграммы\lift\lift\lift\lift\obj\Debug\lift.exe
+D:\C#Диаграммы\lift\lift\lift\lift\obj\Debug\lift.pdb
+D:\C#Диаграммы\lift\lift\Elevator\lift\bin\Debug\lift.exe.config
+D:\C#Диаграммы\lift\lift\Elevator\lift\bin\Debug\lift.exe
+D:\C#Диаграммы\lift\lift\Elevator\lift\bin\Debug\lift.pdb
+D:\C#Диаграммы\lift\lift\Elevator\lift\bin\Debug\IModel.dll
+D:\C#Диаграммы\lift\lift\Elevator\lift\bin\Debug\IWiew.dll
+D:\C#Диаграммы\lift\lift\Elevator\lift\bin\Debug\Model.dll
+D:\C#Диаграммы\lift\lift\Elevator\lift\bin\Debug\Presentation.dll
+D:\C#Диаграммы\lift\lift\Elevator\lift\bin\Debug\Servises.dll
+D:\C#Диаграммы\lift\lift\Elevator\lift\bin\Debug\IModel.pdb
+D:\C#Диаграммы\lift\lift\Elevator\lift\bin\Debug\IWiew.pdb
+D:\C#Диаграммы\lift\lift\Elevator\lift\bin\Debug\Model.pdb
+D:\C#Диаграммы\lift\lift\Elevator\lift\bin\Debug\Presentation.pdb
+D:\C#Диаграммы\lift\lift\Elevator\lift\bin\Debug\Servises.pdb
+D:\C#Диаграммы\lift\lift\Elevator\lift\obj\Debug\lift.csprojAssemblyReference.cache
+D:\C#Диаграммы\lift\lift\Elevator\lift\obj\Debug\lift.MainFrame.resources
+D:\C#Диаграммы\lift\lift\Elevator\lift\obj\Debug\lift.FinalFrame.resources
+D:\C#Диаграммы\lift\lift\Elevator\lift\obj\Debug\lift.Properties.Resources.resources
+D:\C#Диаграммы\lift\lift\Elevator\lift\obj\Debug\lift.RealTimeFrame.resources
+D:\C#Диаграммы\lift\lift\Elevator\lift\obj\Debug\lift.csproj.GenerateResource.cache
+D:\C#Диаграммы\lift\lift\Elevator\lift\obj\Debug\lift.csproj.CoreCompileInputs.cache
+D:\C#Диаграммы\lift\lift\Elevator\lift\obj\Debug\lift.csproj.CopyComplete
+D:\C#Диаграммы\lift\lift\Elevator\lift\obj\Debug\lift.exe
+D:\C#Диаграммы\lift\lift\Elevator\lift\obj\Debug\lift.pdb

@@ -1,0 +1,25 @@
+D:\документы\3 курс 5 семестр\ТП\lift\lift\IWiew\bin\Debug\IWiew.dll
+D:\документы\3 курс 5 семестр\ТП\lift\lift\IWiew\bin\Debug\IWiew.pdb
+D:\документы\3 курс 5 семестр\ТП\lift\lift\IWiew\obj\Debug\IWiew.csprojResolveAssemblyReference.cache
+D:\документы\3 курс 5 семестр\ТП\lift\lift\IWiew\obj\Debug\IWiew.dll
+D:\документы\3 курс 5 семестр\ТП\lift\lift\IWiew\obj\Debug\IWiew.pdb
+D:\документы\3 курс 5 семестр\ТП\lift\lift\IWiew\bin\Debug\IPresentation.dll
+D:\документы\3 курс 5 семестр\ТП\lift\lift\IWiew\bin\Debug\IPresentation.pdb
+D:\C#Диаграммы\lift\lift\lift\IWiew\bin\Debug\IWiew.dll
+D:\C#Диаграммы\lift\lift\lift\IWiew\bin\Debug\IWiew.pdb
+D:\C#Диаграммы\lift\lift\lift\IWiew\bin\Debug\IPresentation.dll
+D:\C#Диаграммы\lift\lift\lift\IWiew\bin\Debug\IPresentation.pdb
+D:\C#Диаграммы\lift\lift\lift\IWiew\obj\Debug\IWiew.csprojAssemblyReference.cache
+D:\C#Диаграммы\lift\lift\lift\IWiew\obj\Debug\IWiew.csproj.CoreCompileInputs.cache
+D:\C#Диаграммы\lift\lift\lift\IWiew\obj\Debug\IWiew.csproj.CopyComplete
+D:\C#Диаграммы\lift\lift\lift\IWiew\obj\Debug\IWiew.dll
+D:\C#Диаграммы\lift\lift\lift\IWiew\obj\Debug\IWiew.pdb
+D:\C#Диаграммы\lift\lift\Elevator\IWiew\bin\Debug\IWiew.dll
+D:\C#Диаграммы\lift\lift\Elevator\IWiew\bin\Debug\IWiew.pdb
+D:\C#Диаграммы\lift\lift\Elevator\IWiew\bin\Debug\IPresentation.dll
+D:\C#Диаграммы\lift\lift\Elevator\IWiew\bin\Debug\IPresentation.pdb
+D:\C#Диаграммы\lift\lift\Elevator\IWiew\obj\Debug\IWiew.csprojAssemblyReference.cache
+D:\C#Диаграммы\lift\lift\Elevator\IWiew\obj\Debug\IWiew.csproj.CoreCompileInputs.cache
+D:\C#Диаграммы\lift\lift\Elevator\IWiew\obj\Debug\IWiew.csproj.CopyComplete
+D:\C#Диаграммы\lift\lift\Elevator\IWiew\obj\Debug\IWiew.dll
+D:\C#Диаграммы\lift\lift\Elevator\IWiew\obj\Debug\IWiew.pdb

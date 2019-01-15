@@ -1,0 +1,5 @@
+D:\документы\3 курс 5 семестр\ТП\lift\lift\IServises\bin\Debug\IServises.dll
+D:\документы\3 курс 5 семестр\ТП\lift\lift\IServises\bin\Debug\IServises.pdb
+D:\документы\3 курс 5 семестр\ТП\lift\lift\IServises\obj\Debug\IServises.csprojResolveAssemblyReference.cache
+D:\документы\3 курс 5 семестр\ТП\lift\lift\IServises\obj\Debug\IServises.dll
+D:\документы\3 курс 5 семестр\ТП\lift\lift\IServises\obj\Debug\IServises.pdb
